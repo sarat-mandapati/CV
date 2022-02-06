@@ -1,0 +1,66 @@
+body
+{
+  font-family: 'Source Code Pro', monospace;
+  background-color: #E0F7FA;
+}
+.Container
+{
+  position: relative;
+  font-family: 'Courgette', cursive;
+  color: #194A8D;
+  top: 20vh;
+  padding-left: 1vw;
+}
+.Container1
+{
+  position: relative;
+  font-family: 'Courgette', cursive;
+  color: #194A8D;
+  top: 2vh;
+  padding-left: 1vw;
+}
+.heads
+{
+  font-size: 1.2vw;
+  font-weight: bold;
+}
+.content
+{
+  font-size: 1vw;
+  font-weight: normal;
+}
+.header
+{
+  position: relative;
+  height: 14vh;
+  width:100vw;
+}
+.header1-Container
+{
+  position: absolute;
+  left:45vw;
+}
+.header2-Container
+{
+  position: absolute;
+  font-family: 'Courgette', cursive;
+  color: #194A8D;
+  left:37.5vw;
+  top:15vh;
+  font-size: 2vw;
+  text-align: center;
+}
+.profile-pic
+{
+  width: 10vw;
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+table.tab, th.tab, td.tab {
+  border: 1px solid #194A8D;
+  border-radius: 10px;
+  align-items: center;
+}
